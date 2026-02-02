@@ -1,3 +1,5 @@
+// Garrett Ashcroft
+
 import { DynamoDBClient } from "@aws-sdk/client-dynamodb";
 import {
   DynamoDBDocumentClient,
